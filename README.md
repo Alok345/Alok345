@@ -19,7 +19,7 @@ I’m a passionate fullstack developer with hands-on experience in building scal
 ---
 
 ### 💼 Experience
-- **Software Developer @ Mars Web Solution (2025 – Present)**  
+- **Software Developer @ Ad2Click Media (2025 – Present)**  
   - Built 20+ reusable React.js components, reducing dev time by 30%.  
   - Optimized UI performance, reducing load times by 25%.  
   - Delivered API integrations with 100% accuracy.  
