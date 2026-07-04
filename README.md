@@ -4,7 +4,7 @@
   <img src="https://avatars.githubusercontent.com/u/74381831?v=4" alt="Alok Kumar Panday Profile" width="180" style="border-radius:50%; margin-bottom: 20px;">
   <p align="center">
     <a href="https://www.linkedin.com/in/alok31" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+      <img src="[https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white](https://media.licdn.com/dms/image/v2/D5635AQHBGOu3ovTTcw/profile-framedphoto-shrink_800_800/B56Z4QmxxKG0Ag-/0/1778395061552?e=1783789200&v=beta&t=R99q5JkxtvZNeol39bKbOGyvDsRA12jcQQ2R4ry8zJo)" alt="LinkedIn">
     </a>
     <a href="mailto:akumar.panday31@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
