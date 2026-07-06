@@ -50,7 +50,7 @@
 Name: Alok Kumar Pandey
 
 Current Role:
-  Software Development Engineer @ TestGrid.io
+  Software Development Engineer 2 @ TestGrid.io
 
 Experience:
   3+ Years
@@ -116,7 +116,7 @@ Looking For:
 ---
 # 🚀 About Me
 
-I'm **Alok Kumar Pandey**, a passionate **Software Development Engineer** with **3+ years of experience** in designing, developing, and deploying scalable web applications.
+I'm **Alok Kumar Pandey**, a passionate **Software Development Engineer** with **2+ years of experience** in designing, developing, and deploying scalable web applications.
 
 Currently, I'm working at **TestGrid.io**, where I build modern web applications and contribute to product development. Over the years, I've worked on enterprise products, admin dashboards, HRMS systems, CMS platforms, ERP solutions, and AI-powered automation tools.
 
@@ -291,7 +291,7 @@ When I'm not coding, you'll usually find me:
 
 ---
 
-## 🚀 Software Development Engineer
+## 🚀 Software Development Engineer 2
 
 ### 🏢 TestGrid.io
 **📍 March 2026 — Present**
@@ -312,6 +312,7 @@ When I'm not coding, you'll usually find me:
 `React.js` • `Next.js` • `TypeScript` • `Tailwind CSS` • `REST API` • `Git`
 
 ---
+
 
 ## 🚀 Software Developer
 
