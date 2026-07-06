@@ -428,6 +428,7 @@ When I'm not coding, you'll usually find me:
 
 ---
 
+
 # 📈 Career Journey
 
 ```text
@@ -463,7 +464,7 @@ When I'm not coding, you'll usually find me:
 
 ### 👨‍💻 Experience
 
-- ✅ 3+ Years of Professional Experience
+- ✅ 2+ Years of Professional Experience
 - ✅ Enterprise Product Development
 - ✅ Full Stack Development
 - ✅ Frontend Architecture
