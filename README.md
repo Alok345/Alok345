@@ -53,7 +53,7 @@ Current Role:
   Software Development Engineer 2 @ TestGrid.io
 
 Experience:
-  3+ Years
+  2+ Years
 
 Location:
   India 🇮🇳
@@ -1362,7 +1362,7 @@ Current Company:
   TestGrid.io
 
 Experience:
-  3+ Years
+  2+ Years
 
 Primary Stack:
   React.js
