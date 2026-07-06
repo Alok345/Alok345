@@ -1,195 +1,759 @@
-# Hi there 👋 I'm Alok Kumar Panday
-
 <div align="center">
-  <img 
-    src="https://qo2iptskb9oavolz.public.blob.vercel-storage.com/alok_photo.jpg"
-    alt="Alok Kumar Pandey"
-    width="180"
-    style="border-radius:50%; margin-bottom:20px;"
-  />
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/alok31" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
+# 👋 Hey, I'm Alok Kumar Pandey
 
-   <a href="mailto:akumar.panday31@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1200&center=true&vCenter=true&width=900&lines=Full+Stack+Software+Engineer;React+%7C+Next.js+Developer;AI+Automation+Engineer;FastAPI+%7C+Firebase+%7C+Docker;Building+Scalable+Modern+Applications" />
 
-<a href="https://github.com/Alok345" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-  </p>
+<p>
+<img src="https://komarev.com/ghpvc/?username=Alok345&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Alok345?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/Alok345?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20to-Fulltime-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Freelance-Available-blue?style=for-the-badge"/>
+</p>
+
+<img src="https://qo2iptskb9oavolz.public.blob.vercel-storage.com/alok_photo.jpg" width="180" style="border-radius:50%;" />
+
 </div>
 
-### 🚀 Igniting Innovation with Code
+---
 
-As a passionate **Fullstack Developer** and **UI Enthusiast**, I thrive on building robust, scalable, and visually captivating web applications. With a strong foundation in modern web technologies and a keen eye for performance optimization, I transform complex ideas into intuitive digital experiences. Welcome to my GitHub profile, where innovation meets execution.
+# 🚀 About Me
 
-My journey is fueled by a desire to craft high-performance web solutions using cutting-edge tools like **Next.js, Firebase, Redux Toolkit, and Tailwind CSS**. I excel across the **MERN stack** and **PHP (CodeIgniter)**, specializing in responsive UI design, performance tuning, and seamless API integrations.
+I'm a **Full Stack Software Engineer** from **India 🇮🇳** passionate about building scalable web applications and AI-powered automation systems.
+
+With **3+ years of professional experience**, I specialize in developing modern applications using **React, Next.js, Firebase, FastAPI, Node.js, and CodeIgniter**.
+
+I enjoy solving complex business problems, optimizing performance, and creating products that are fast, scalable, and user-friendly.
+
+Recently, my focus has shifted toward **AI Engineering**, where I'm building intelligent workflows using **LangGraph**, **LLMs**, and **Agentic AI**.
 
 ---
 
-## ✨ What I Bring to the Table
+## 💡 What I Do
 
-My expertise spans the entire development lifecycle, from crafting pixel-perfect UIs to engineering resilient backend systems. I specialize in:
-
-*   **Fullstack Development:** Building end-to-end solutions leveraging Next.js, Firebase, and the MERN stack for scalable and maintainable applications.
-*   **Performance Optimization:** Drastically reducing load times and enhancing responsiveness to deliver a smooth and engaging user experience.
-*   **Intuitive UI/UX Design:** Crafting user interfaces that are not only aesthetically pleasing but also highly functional and user-centric, utilizing modern libraries like Shadcn/UI, Aceternity UI, and Framer Motion.
-*   **Cloud Integration & Management:** Deploying and managing robust applications on Google Cloud Platform (GCP) and Firebase, ensuring reliability and scalability.
-*   **Robust API Development & Integration:** Designing, developing, and seamlessly integrating APIs to ensure robust data flow and comprehensive functionality across systems.
-*   **Agile Methodologies:** Collaborating effectively in fast-paced, iterative environments to deliver high-quality software on schedule.
-
----
-
-## 🛠️ My Development Arsenal
-
-A comprehensive look at the technologies and tools I wield to build powerful web applications:
-
-### **Languages & Core Technologies**
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-</p>
-
-### **Frontend Frameworks & Libraries**
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-</p>
-
-### **Backend Technologies & Databases**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/CodeIgniter-EE4824?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter" />
-</p>
-
-### **UI Libraries & Animation**
-<p>
-  <img src="https://img.shields.io/badge/Shadcn%2FUI-000000?style=for-the-badge&logo=shadcn%2Fui&logoColor=white" alt="Shadcn/UI" />
-  <span style="background-color:#F5F5F5; color:#333; padding: 4px 10px; border-radius: 5px; font-weight: bold; font-size: 0.9em; margin-right: 5px;">Aceternity UI</span>
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
-</p>
-
-### **Cloud Platforms & Tools**
-<p>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Platform (GCP)" />
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="JIRA" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-</p>
+- 🚀 Build scalable Full Stack Applications
+- 🤖 Develop AI Agents & Workflow Automation
+- ⚡ Optimize Performance & User Experience
+- 🔥 Design Modern Responsive Interfaces
+- ☁️ Deploy Production Applications
+- 📦 Build REST APIs & Backend Services
+- 🎯 Convert Business Ideas into Products
 
 ---
 
-## 💼 Professional Journey
+# 🌟 Current Focus
 
-My career highlights reflect a strong commitment to innovation, efficiency, and delivering tangible results.
+```text
+🚧 Building AI Bug Management Platform
 
-*   **Software Developer @ Ad2Click Media** (2025 – Present)
-    *   Spearheaded the development of **20+ reusable React.js components**, significantly reducing development time by **30%**.
-    *   Optimized critical UI performance metrics, resulting in a **25% decrease** in load times and enhanced user engagement.
-    *   Ensured flawless integration of various APIs, achieving **100% accuracy** in data exchange and functionality.
+🤖 LangGraph Multi-Agent Systems
 
-*   **Associate Software Developer @ Electromotion E-Vidyut Vehicles Pvt. Ltd.** (2024 – 2025)
-    *   Led the revamp of user dashboards, contributing to a **20% improvement** in customer retention rates.
-    *   Developed sophisticated API integrations for Zoho Books & Wix, automating complex workflows and streamlining business operations.
-    *   Achieved a **30% reduction** in website load time through strategic state management optimizations.
+🐳 Docker Development Environment
 
-*   **Fullstack Developer Intern @ Epointer Consultancy Services** (2023)
-    *   Built scalable ERP modules using **PHP & CodeIgniter**, boosting system efficiency by **35%**.
-    *   Executed API integrations with meticulous attention to detail, ensuring **100% functional accuracy**.
+⚡ FastAPI Backend Architecture
 
-*   **Frontend Developer Intern @ Shreshthana IT Solutions** (2022 – 2023)
-    *   Developed highly responsive and dynamic user interfaces using **React.js & Tailwind CSS**.
-    *   Actively collaborated within Agile sprints, contributing to successful project delivery and seamless API integration.
+📊 AI Dashboard & Analytics
 
----
+☁️ CI/CD with GitHub Actions
 
-## 🚀 Featured Projects
+🧠 Large Language Models (LLMs)
 
-Showcasing a few of my impactful creations that highlight my skills and contributions.
-
-### **[Scholar Creators](https://www.scholarcreators.com/)**
-A groundbreaking fundraising platform designed to empower students by facilitating educational loans. This project has successfully connected **3,000+ students** with financial aid.
-*   **Key Technologies:** React.js, Firebase, Tailwind CSS.
-*   **Impact:** Democratized access to education by providing a robust platform for financial support.
-
-### **[Studio7](http://studio7.vercel.app/)**
-A comprehensive industry management platform featuring robust modules for payroll, attendance tracking, and project oversight. Studio7 has proven to increase operational efficiency by **30%**.
-*   **Key Technologies:** Next.js, Firebase, Tailwind CSS.
-*   **Impact:** Streamlined business operations for enhanced productivity and resource management.
-
----
-
-## 🏆 Achievements & Recognition
-
-A testament to my dedication and innovative spirit.
-
-*   🥇 **Winner**, Google Code Vipassana (Project Saadhna, GDG 2023)
-*   🥇 **1st Place**, College Innovation Competition (Alumni Association)
-
----
-
-## 📂 Repository Structure (Profile Overview)
-
-This repository serves as a central hub for my professional profile. While it's primarily a showcase, here's a logical view of its components:
-
-```
-.
-├── README.md             # You are here! This file provides an overview of my skills, experience, and projects.
-├── .github/              # Configuration for GitHub, potentially including workflows or profile-specific settings.
-│   └── workflows/        # Example: CI/CD or linting workflows.
-├── assets/               # Directory for profile images, project screenshots, or other visual assets.
-│   └── (images/)         # Placeholder for visual assets.
-└── projects/             # (Optional) Future directory for linking detailed project READMEs or demos.
-    └── (project-name/)   # Each folder could contain a detailed README for a specific project.
+🔍 Retrieval-Augmented Generation (RAG)
 ```
 
 ---
 
-## 📖 Exploring My Profile
+# 🛠️ Tech Highlights
 
-This repository acts as my dynamic professional portfolio. While there are no typical "installation" steps for a profile README, you can explore my work as follows:
-
-1.  **Browse Sections:** Navigate through the headers above to learn about my skills, experience, and featured projects.
-2.  **Clone the Repository:** To keep track of my updates or to view the raw markdown, you can clone this repository:
-    ```bash
-    git clone https://github.com/Alok345/Alok345.git
-    cd Alok345
-    ```
-3.  **Explore Linked Projects:** Click on the project links provided in the "Featured Projects" section to dive deeper into live applications and their respective codebases.
-
----
-
-## 🌐 Get Connected
-
-I'm always open to new opportunities, collaborations, and discussions about exciting technologies. Feel free to reach out—I'd love to connect!
-
-*   📧 **Email:** [akumar.panday31@gmail.com](mailto:akumar.panday31@gmail.com)
-*   💼 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/alok31)
-*   💻 **GitHub:** [Explore more of my work](https://github.com/Alok345)
+| Category | Technologies |
+|----------|--------------|
+| Frontend | React, Next.js, TypeScript, Tailwind CSS, Redux Toolkit |
+| Backend | Node.js, Express.js, FastAPI, PHP, CodeIgniter |
+| Database | Firebase, Firestore, MongoDB, MySQL |
+| AI | LangGraph, OpenAI API, Gemini API, Prompt Engineering |
+| Cloud | Firebase, Vercel, Azure |
+| DevOps | Docker, Git, GitHub Actions |
+| Tools | Postman, Jira, VS Code |
 
 ---
 
-## License
+# 📈 2026 Mission
 
-This profile README and its content are distributed under the MIT License. You are welcome to view and adapt the structure for your own profile. See the [LICENSE](LICENSE) file for more information (if present in the repository).
+> Build production-ready AI products that solve real-world business problems.
+
+✔ AI Automation
+
+✔ Enterprise Software
+
+✔ SaaS Products
+
+✔ Open Source Contributions
+
+✔ System Design
+
+✔ Cloud Native Development
 
 ---
-⭐️ _"Code, Create, Innovate."_ - Alok Kumar Panday
+
+## 🎯 Fun Facts
+
+- 💼 Software Engineer
+- 🤖 AI Enthusiast
+- 🌐 Full Stack Developer
+- 📚 Lifelong Learner
+- ☕ Coffee + Code = Productivity
+- 🚀 Love Building Real Products
+
+---
+
+
+# 💼 Professional Journey
+
+<div align="center">
+
+| Company | Role | Duration |
+|:--------:|:----:|:---------:|
+| 🚀 Ad2Click Media | Software Developer | 2025 - Present |
+| ⚡ Electromotion eVidyut Vehicles Pvt. Ltd. | Associate Software Developer | 2024 - 2025 |
+| 💻 Epointer Consultancy Services | Full Stack Developer Intern | 2023 |
+| 🌐 Shreshthana IT Solutions | Frontend Developer Intern | 2022 - 2023 |
+
+</div>
+
+---
+
+## 🚀 Career Highlights
+
+### 🚀 Ad2Click Media (Current)
+
+- ⚛️ Developed **20+ reusable React components**
+- 🚀 Reduced development time by **30%**
+- ⚡ Improved application performance by **25%**
+- 🔌 Integrated multiple third-party APIs
+- 🎨 Built responsive enterprise dashboards
+
+---
+
+### ⚡ Electromotion eVidyut
+
+- 🖥️ Developed HRMS Portal
+- 📊 Built Attendance Management System
+- 📦 Firebase Integration
+- 📈 Zoho Books API Integration
+- 🌐 Wix API Integration
+- ⚡ Reduced website loading time by **30%**
+
+---
+
+### 💻 Epointer Consultancy
+
+- ERP Development using CodeIgniter
+- REST API Development
+- MySQL Optimization
+- Dynamic Admin Panel
+- CRUD Applications
+
+---
+
+### 🌐 Shreshthana IT Solutions
+
+- React.js Development
+- Tailwind CSS
+- Responsive UI
+- REST API Integration
+- Agile Development
+
+---
+
+# 🛠️ Tech Stack
+
+## 👨‍💻 Languages
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=js,ts,php,dart,html,css"/>
+
+</p>
+
+---
+
+## ⚛️ Frontend
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,materialui"/>
+
+</p>
+
+---
+
+## ⚙️ Backend
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql"/>
+
+</p>
+
+---
+
+## ☁️ Cloud & Hosting
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=firebase,vercel,gcp,azure"/>
+
+</p>
+
+---
+
+## 🔧 Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker"/>
+
+</p>
+
+---
+
+# 🤖 AI Engineering
+
+Currently learning and building production-ready AI systems.
+
+### AI Technologies
+
+- 🤖 LangGraph
+- 🧠 LangChain
+- 💬 OpenAI API
+- ✨ Gemini API
+- 🧩 MCP (Model Context Protocol)
+- 🔍 RAG Applications
+- 📚 Vector Databases
+- 🧠 Prompt Engineering
+- 🕵️ Multi-Agent Systems
+- 📄 AI Document Processing
+- 🔊 Speech to Text
+- 🎙️ Text to Speech
+
+---
+
+## 🚀 AI Projects
+
+✅ AI Bug Tracking System
+
+✅ Multi-Agent Workflow
+
+✅ AI Email Automation
+
+✅ AI HR Assistant
+
+✅ AI Resume Analyzer
+
+✅ AI Chatbot
+
+---
+
+# 🐳 DevOps
+
+### Technologies
+
+- Docker
+- Docker Compose
+- GitHub Actions
+- Linux
+- Vercel
+- Firebase Hosting
+- Nginx (Learning)
+
+---
+
+## ⚡ Development Workflow
+
+```text
+Planning
+     │
+     ▼
+UI Design
+     │
+     ▼
+Frontend Development
+     │
+     ▼
+Backend APIs
+     │
+     ▼
+Database
+     │
+     ▼
+Testing
+     │
+     ▼
+Docker
+     │
+     ▼
+Deployment
+```
+
+---
+
+# 🏆 Achievements
+
+🥇 Google Code Vipassana Winner
+
+🥇 College Innovation Competition Winner
+
+🚀 Developed multiple production applications
+
+👨‍💻 3+ Years of Development Experience
+
+⚛️ Full Stack Developer
+
+🤖 AI Automation Enthusiast
+
+---
+
+# 📚 Currently Learning
+
+- LangGraph
+- MCP
+- Agentic AI
+- Docker
+- Kubernetes
+- AWS
+- System Design
+- Microservices
+- Event Driven Architecture
+
+---
+
+# 🎯 2026 Roadmap
+
+- 🚀 Build Enterprise AI Products
+- 🌍 Contribute to Open Source
+- ☁️ AWS Certification
+- 🐳 Kubernetes
+- 📈 100K GitHub Profile Views
+- ⭐ 1000+ GitHub Stars
+- 💼 Senior Software Engineer
+- 🤖 AI Engineer
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+> Building products that solve real-world business problems.
+
+</div>
+
+---
+
+## 🤖 AI Bug Management System *(In Progress)*
+
+An enterprise-grade AI platform that automatically assigns, prioritizes, and manages bugs using intelligent agents.
+
+### ✨ Features
+
+- 🤖 AI Bug Assignment
+- 👨‍💻 Developer Workload Analysis
+- 📧 Email & WhatsApp Notifications
+- 📊 Analytics Dashboard
+- 🧠 LangGraph Multi-Agent Workflow
+- 📂 Excel & Jira Integration
+- ⚡ Real-time Updates
+
+**Tech Stack**
+
+`Next.js` `FastAPI` `LangGraph` `Firebase` `Docker`
+
+---
+
+## 🏢 Studio7 ERP
+
+A complete business management platform.
+
+### Features
+
+- 👥 Employee Management
+- 💰 Payroll
+- 📅 Attendance
+- 📊 Dashboard
+- 📦 Inventory
+- 📁 Project Management
+
+**Tech Stack**
+
+`Next.js` `Firebase` `Tailwind CSS`
+
+🔗 Live Demo: https://studio7.vercel.app/
+
+---
+
+## 🎓 Scholar Creators
+
+Fundraising platform helping students receive educational support.
+
+### Features
+
+- Student Registration
+- Loan Assistance
+- Donation Platform
+- Admin Dashboard
+- Firebase Authentication
+
+**Tech Stack**
+
+`React.js` `Firebase`
+
+---
+
+## 💍 Wedding Package Management
+
+Enterprise package management system.
+
+### Features
+
+- CRUD Packages
+- Firebase Integration
+- Real-time Updates
+- Dynamic Pricing
+- Admin Dashboard
+
+**Tech Stack**
+
+`Next.js` `Firestore`
+
+---
+
+## 👨‍💼 HRMS Portal
+
+Human Resource Management System.
+
+### Modules
+
+- Attendance
+- Leave Management
+- Salary
+- Employee Profiles
+- Company Management
+
+---
+
+## 🌐 Dynamic CMS Builder
+
+Contentful powered drag-and-drop CMS.
+
+### Features
+
+- Dynamic Layouts
+- GraphQL
+- SSG
+- Live Preview
+- Reusable Components
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=Alok345&show_icons=true&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Alok345&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alok345&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=Alok345&theme=tokyo-night)
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+![](https://raw.githubusercontent.com/Alok345/Alok345/output/github-contribution-grid-snake.svg)
+
+</div>
+
+> ⚠️ Enable this later using GitHub Actions.
+
+---
+
+# 🌟 Open Source
+
+Currently exploring open-source contributions in:
+
+- React
+- Next.js
+- Firebase
+- LangGraph
+- FastAPI
+- TypeScript
+
+Goal for 2026
+
+- ⭐ 1000 GitHub Stars
+- 🚀 50 Public Repositories
+- 🌍 Open Source Contributor
+
+---
+
+# 📜 Certifications
+
+- Google Cloud (Upcoming)
+- AWS Cloud Practitioner *(Planned)*
+- Docker *(Learning)*
+- Kubernetes *(Learning)*
+- AI Agents *(In Progress)*
+
+---
+
+# 📈 Coding Activity
+
+```text
+React.js           ████████████████████ 95%
+
+Next.js            ██████████████████░ 90%
+
+Firebase           █████████████████░░ 88%
+
+Node.js            ████████████████░░░ 82%
+
+FastAPI            ██████████████░░░░░ 75%
+
+AI Engineering     ████████████░░░░░░░ 65%
+
+Docker             ██████████░░░░░░░░░ 60%
+```
+
+---
+
+# 💡 What I'm Building Right Now
+
+- 🤖 AI Bug Tracking Platform
+- 🧠 Multi-Agent Systems
+- 🐳 Dockerized Applications
+- ☁️ Enterprise SaaS
+- 📊 Analytics Dashboard
+- ⚡ AI Automation Tools
+
+---
+
+# ❤️ Support My Work
+
+If you like my projects, don't forget to ⭐ the repositories and connect with me.
+---
+
+# 🌍 Let's Connect
+
+<div align="center">
+
+<a href="mailto:akumar.panday31@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/alok31">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Alok345">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 💼 Open To Work
+
+<div align="center">
+
+| Role | Available |
+|------|-----------|
+| Full Stack Developer | ✅ |
+| React Developer | ✅ |
+| Next.js Developer | ✅ |
+| Frontend Developer | ✅ |
+| Backend Developer | ✅ |
+| AI Engineer | ✅ |
+| Freelance Projects | ✅ |
+| Remote Opportunities | ✅ |
+
+</div>
+
+---
+
+# 🤝 Services I Offer
+
+### 🚀 Full Stack Development
+
+- Enterprise Web Applications
+- Admin Dashboards
+- SaaS Products
+- ERP Systems
+
+---
+
+### ⚛️ Frontend Development
+
+- React.js
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Material UI
+
+---
+
+### ⚙️ Backend Development
+
+- Node.js
+- Express.js
+- FastAPI
+- Firebase
+- REST APIs
+
+---
+
+### 🤖 AI Automation
+
+- AI Agents
+- LangGraph
+- OpenAI Integration
+- Gemini API
+- Workflow Automation
+
+---
+
+### ☁️ Cloud & DevOps
+
+- Firebase
+- Docker
+- GitHub Actions
+- Vercel
+- Azure
+
+---
+
+# 📚 Currently Reading
+
+📖 Designing Data Intensive Applications
+
+📖 Clean Architecture
+
+📖 System Design Interview
+
+📖 Building LLM Applications
+
+📖 Kubernetes Up & Running
+
+---
+
+# 🎯 2026 Vision
+
+✔ Build enterprise AI platforms
+
+✔ Become a Senior Software Engineer
+
+✔ Contribute to Open Source
+
+✔ Launch SaaS Products
+
+✔ Learn Kubernetes
+
+✔ Master AWS
+
+✔ Build AI Products used by thousands
+
+✔ Speak at Tech Communities
+
+---
+
+# 💬 Favorite Quote
+
+<div align="center">
+
+> **"Code is not just about solving problems. It's about creating possibilities."**
+
+</div>
+
+---
+
+# ⚡ Fun Facts
+
+- 💻 I enjoy solving real business problems.
+- 🚀 I love building scalable products.
+- 🤖 AI & Automation fascinate me.
+- 📈 Always learning something new.
+- ☕ Coffee makes debugging easier.
+- 🌙 Most productive during late-night coding sessions.
+
+---
+
+# 📬 Reach Me
+
+📧 **Email**
+
+**akumar.panday31@gmail.com**
+
+💼 **LinkedIn**
+
+linkedin.com/in/alok31
+
+💻 **GitHub**
+
+github.com/Alok345
+
+---
+
+# 👨‍💻 Visitor Message
+
+Thanks for visiting my profile.
+
+If you find any project interesting, feel free to ⭐ it.
+
+I'm always open to collaborating on exciting projects.
+
+Let's build something amazing together 🚀
+
+---
+
+<div align="center">
+
+# ⭐ Thanks for Visiting ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=footer&text=Happy%20Coding!&fontSize=35&fontColor=ffffff"/>
+
+</div>
